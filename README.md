@@ -5,6 +5,7 @@
 ### Connect with me
 [![Facebook](https://user-images.githubusercontent.com/54549934/93971143-23240280-fd8d-11ea-859d-1e69485789de.png)](https://www.facebook.com/JoackoBautista/) 
 [![Linkedin](https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png)](https://www.linkedin.com/in/joaquin-bautista)
+<img width="118" height="28" href = "https://arpegius666@gmail.com/" src="https://user-images.githubusercontent.com/71107859/130311259-7df7f826-2ade-4e45-b78b-077c5b68e6eb.png">
 
 ### Herramientas y Tecnologías
 
